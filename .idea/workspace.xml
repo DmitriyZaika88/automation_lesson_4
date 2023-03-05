@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c3dad11-3046-4112-b6ea-33bed1246dfc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests_lesson_4.py" afterDir="false" />
-    </list>
+    <list default="true" id="8c3dad11-3046-4112-b6ea-33bed1246dfc" name="Changes" comment=".gitignore includes .idea" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +126,34 @@
       <option name="presentableId" value="Default" />
       <updated>1677786132521</updated>
     </task>
+    <task id="LOCAL-00001" summary="hw_lesson_4">
+      <created>1678044999230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678044999230</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hw_lesson_4">
+      <created>1678045044453</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678045044453</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".gitignore includes .idea">
+      <created>1678045106243</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678045106243</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw_lesson_4" />
+    <MESSAGE value=".gitignore includes .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore includes .idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
